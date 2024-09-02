@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "tsx ."
+  },
+  "dependencies": {
+    "@icehouse/universal--web--ui-framework--dui": "file:..",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}
